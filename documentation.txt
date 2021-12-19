@@ -1,9 +1,9 @@
-This project is all about flight reservation for domestic and  destinations.
+  This project is all about flight reservation for domestic and international destinations.
 
-Please follow the installation details:
+  Please follow the installation details:
 
-f
-asd
-as
-lkj
-lk
+  f
+  fd
+  fs ad
+  as
+  
