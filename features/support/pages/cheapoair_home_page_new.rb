@@ -1,6 +1,7 @@
 class CheapoairHomePageNew
   include PageObject
   page_url "www.cheapoair.com"
+  # page_url "$url"
 
   #@browser.link(aria_controls: 'panel-1').click
   link(:selecting_flights_tab, class: 'navigation_link', index: 0)
