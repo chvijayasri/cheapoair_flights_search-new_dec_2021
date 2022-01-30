@@ -1,5 +1,5 @@
 default: --no-source --color --format pretty --format html --out results.html
-#smoke: --no-source --color --format pretty --tags @smoke --format html --out results.htmi
+#smoke: --no-source --color --format pretty --tags @smoke --format html --out results.html
 smoke: --no-source --color --format pretty --tags @smoke --format json --out results.json
 sanity: --no-source --color --format pretty --tags @sanity --format html --out results.html
 flight_search: --no-source --color --format pretty--tags @flight_search --format html --out results.html
